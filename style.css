@@ -1,0 +1,40 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: boder border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+#d1{
+  background-image: url(/images (3).png);
+}
+
+#d1{
+  width: 100%;
+  height: 100px;
+  align-items: center;
+  content-justiy: center;
+  background-color: darkolivegreen;
+}
+
+#d2{
+  width:85%;
+  height: autn;
+  margin: 25px 10px;
+  padding: 10 10;
+}
+
+#d3{
+  
+  margin-left: 35px;
+  margin-top: 15px;
+  
+}
+button{
+  color: whitesmoke;
+  background-color: red;
+  border: 0.1px;
+  border-radius: 5px;
+  padding: 2px
+}
